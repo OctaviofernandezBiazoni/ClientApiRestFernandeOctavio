@@ -89,6 +89,8 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<!-- Configuración para cambiar el nombre del JAR generado -->
+		<finalName>veterinariaEntrega_ProyectoFinal_FernandezBiazoni</finalName>
 	</build>
 
 </project>
